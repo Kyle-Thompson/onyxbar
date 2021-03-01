@@ -1,0 +1,8 @@
+[package]
+name = "onyxbar"
+version = "0.1.0"
+authors = ["Kyle Thompson <kyle.thompson228@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+x11rb = "*"
